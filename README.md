@@ -1,87 +1,38 @@
-<h1 align="center">Hi 👋, I'm Natan</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Natan%20Nobel&fontSize=50&fontColor=fff&animation=twinkling)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=calrexon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://app.daily.dev/reincalnatan">
-    <img src="https://api.daily.dev/devcards/v2/0W5dSWxn7P50xjOvAMQ9j.png?type=wide&r=yz6" width="652" alt="Reincal (Natan)'s Dev Card"/>
-  </a>
-</p>
+### Frontend/Backend Developer
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=calrexon&theme=discord&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+</div>
 
----
+![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
-### 🧑‍💻 About Me
+a person who loves code and do vibecoding 😹, im prefer backend actually
 
-- 🌱 I'm currently learning **Go, PHP & C#**
-- 📫 How to reach me: **reincal@emailthing.xyz**
-- 📝 I regularly write articles on **[reincal.is-a.dev/blog](https://reincal.is-a.dev/blog)**
-- ⚡ Fun fact: **I'm an airplane ✈️**
+- 🏢 Working at **PT MENCARI CINTA SEJATI** in **Indonesia**
+- 🌱 Currently learning **php**
 
----
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
-### 🌐 Connect with Me
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![golang](https://img.shields.io/badge/golang-333?style=for-the-badge&logo=golang&logoColor=white) ![bun](https://img.shields.io/badge/bun-333?style=for-the-badge&logo=bun&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-333?style=for-the-badge&logo=pnpm&logoColor=white) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![tanstack](https://img.shields.io/badge/tanstack-333?style=for-the-badge&logo=tanstack&logoColor=white) ![vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white) ![nextjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white) ![uv](https://img.shields.io/badge/uv-333?style=for-the-badge&logo=uv&logoColor=white) ![nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 
-<p align="center">
-  <a href="https://twitter.com/therealrein_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/calrexon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:reincal@emailthing.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev.to/reincalnatan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-</p>
+![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calrexon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,cs,js,ts,python,rust,html,css,sass,tailwind,bootstrap,react,vue,svelte,nuxtjs,nodejs,express,nestjs,laravel,django,flask,mysql,postgres,mongodb,redis,sqlite,docker,git&perline=10" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calrexon&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
----
+</div>
 
-### ❤️ Support
+![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
-<p align="center">
-  <a href="https://ko-fi.com/reincal">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
-  </a>
-</p>
+<div align="center">
 
----
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reincal.is-a.dev/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calrexon)
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calrexon&layout=compact&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calrexon&show_icons=true&theme=vue-dark" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=calrexon&theme=vision-friendly-dark" />
-</p>
-
----
-
-### 📈 Detailed Statistics
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=calrexon&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calrexon&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calrexon&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calrexon&theme=2077" height="180em" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calrexon&theme=2077" height="180em" />
-</p>
-
----
-
-<p align="center">✨ Thanks for visiting! ✨</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
